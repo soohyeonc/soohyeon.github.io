@@ -17,6 +17,8 @@ Software Engineering, Machine Learning, AI, Security, Code Authorship Attributio
 
 Education History
 ======
-PH.D., Computer Science, University of Central Florida, Orlando, FL, USA ( 2021 – Current) | Advisor: Prof. David Mohaisen. Topic: Machine Learning, AI, LLM & Security
-M.SC., Computer Science, South Dakota State Unversity, Brookings, SD, USA (2018 – 2021) | Advisor: Prof. Sung Shin. Topic: Sensor Network, Authentication & Security
+PH.D., Computer Science, University of Central Florida, Orlando, FL, USA ( 2021 – Current) 
+* <span style="color:maroon"> Advisor: Prof. David Mohaisen. Topic: Machine Learning, AI, LLM & Security
+M.SC., Computer Science, South Dakota State Unversity, Brookings, SD, USA (2018 – 2021) 
+* <span style="color:maroon">Advisor: Prof. Sung Shin. Topic: Sensor Network, Authentication & Security
 B.SC., Computer Engineering, Keimyung University – Deagu, South Korea (2011 – 2017)

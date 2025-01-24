@@ -21,7 +21,7 @@ repository               : "soohyeonc/soohyeonc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Soohyeon_profile.png"
+  avatar           : "Soohyeon_profile.jpg"
   name             : "Soohyeon Choi"
   pronouns         : # example: "she/her"  
   bio              : "Phd Candidate, CS"

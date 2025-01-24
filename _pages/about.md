@@ -20,7 +20,9 @@ Education History
 PH.D., Computer Science, University of Central Florida, Orlando, FL, USA ( 2021 – Current) 
 * <span style="color:maroon"> Advisor</span>: Prof. David Mohaisen. Topic: Machine Learning, AI, LLM & Security
 
+
 M.SC., Computer Science, South Dakota State Unversity, Brookings, SD, USA (2018 – 2021) 
 * <span style="color:maroon">Advisor</span>: Prof. Sung Shin. Topic: Sensor Network, Authentication & Security
+
 
 B.SC., Computer Engineering, Keimyung University – Daegu, South Korea (2011 – 2017)

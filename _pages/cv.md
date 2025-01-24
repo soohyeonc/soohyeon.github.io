@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-You can find you CV in pdf file via **[CV](/files/Soohyeon_CV_2025.pdf).
+---
+You can find you CV in pdf file via **[CV](/files/Soohyeon_CV_2025.pdf)**.
 
 <!-- Education
 ======

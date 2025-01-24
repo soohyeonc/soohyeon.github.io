@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com/citations?user=xWQGkacAAAAJ&hl=en}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
-<!-- New style rendering if publication categories are defined -->
+<!-- New style rendering if publication categories are defined
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -30,7 +30,16 @@ author_profile: true
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %}
+{% endif %} -->
 
 
+Preprints
+---
+1. I Can Find You in Seconds! Leveraging Large Language Models for Code Authorship Attribution \ 
+Soohyeon Choi, Tan Yong Kiam, Mark Huasong Meng, Mohamed Ragab, Soumik Mondal, Khin Mi Mi Aung, and David Mohaisen \
+[arXiv](https://arxiv.org/pdf/2501.08165) \
+
+1.Attributing ChatGPT-Transformed Synthetic Code \
+Soohyeon Choi, Ali Al Kinoon, Aziz Alghamdi,  Ahod Alguried and David Mohaisen \
+Under review, @ IEEE International Conference on Distributed Computing Systems (ICDCS), 2025 \
 

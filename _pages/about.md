@@ -31,14 +31,14 @@ B.SC., Computer Engineering, Keimyung University â€“ Daegu, South Korea (2011 â€
 
 Professional Appointments
 ======
-* <span style="color:maroon"> 08/2021--Current </span> Research Assistant University of Central Florida Machine Learning Security 
+* <span style="color:maroon"> 08/2021--Current </span>: Research Assistant / University of Central Florida / Machine Learning & Security 
 
 
-* <span style="color:maroon"> 12/2023--12/2024 </span> Research Officer A*STAR Research Entities (I2R) Machine Learning Security 
+* <span style="color:maroon"> 12/2023--12/2024 </span>: Research Officer / A*STAR Research Entities (I2R) / Machine Learning & Security 
 
 
-* <span style="color:maroon"> 08/2019--12/2020 </span> Research Assistant South Dakota State University Sensor Network Security 
+* <span style="color:maroon"> 08/2019--12/2020 </span>: Research Assistant / South Dakota State University / Sensor Network & Security 
 
 
-* <span style="color:maroon"> 08/2018--05/2019 </span> Teaching Assistant South Dakota State University CSc 300 Data Structures 
+* <span style="color:maroon"> 08/2018--05/2019 </span>: Teaching Assistant / South Dakota State University / CSc 300 Data Structures 
 

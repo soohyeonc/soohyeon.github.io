@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-======
-You can find you CV in pdf file via **[CV](https://soohyeone.github.io/files/Soohyeon_CV_2025.pdf).
+You can find you CV in pdf file via **[CV](https:/soohyeone.github.io/files/Soohyeon_CV_2025.pdf).
 
 <!-- Education
 ======
